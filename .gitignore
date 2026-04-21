@@ -1,3 +1,5 @@
 # Unreal Engine plugin ignores
 Binaries/*
 Intermediate/*
+
+.uepatcher/
